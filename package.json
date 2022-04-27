@@ -1,0 +1,15 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "a test firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarun Amasa",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "browsersync": "^0.0.1-security",
+    "firebase": "^9.6.11"
+  }
+}
